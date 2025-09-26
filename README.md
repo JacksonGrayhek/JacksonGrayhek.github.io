@@ -1,4 +1,4 @@
-# JacksonGrayhek.github.io
+# Jackson Grayhek
 ![](FullSizeRender.jpg)
 ## Interests 
 - Golf
