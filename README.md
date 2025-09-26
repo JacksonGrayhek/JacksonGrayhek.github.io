@@ -1,5 +1,5 @@
 # JacksonGrayhek.github.io
-/assets/images/FullSizeRender.jpg
+![](FullSizeRender.jpg)
 ## Interests 
 - Golf
 - Video Games
